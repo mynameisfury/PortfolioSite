@@ -1,0 +1,20 @@
+body{
+	background-color: black;
+	/*background-image: url(fury.jpg);
+	background-repeat: no-repeat;*/
+
+}
+
+h1{
+	color: white;
+}
+h2{
+	color: grey
+}
+p{
+	color: white;
+	font-family: calibri
+}
+.superPad {
+	padding-top: 60px;
+}
